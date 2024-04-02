@@ -12,57 +12,57 @@ export class CardsComponent implements OnInit {
     {
         userId: 1,
         id: 1,
-        title: "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        body: "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        title: "Html 5",
+        body: "HTML is the standard markup language for Web pages. With HTML you can create your own Website."
     },
     {
         userId: 1,
         id: 2,
-        title: "qui est esse",
-        body: "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+        title: "Css 3",
+        body: "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed."
     },
     {
         userId: 1,
         id: 3,
-        title: "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-        body: "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+        title: "JavaScript",
+        body: "JavaScript is a scripting or programming language that allows you to implement complex features on web pages —"
     },
     {
         userId: 1,
         id: 4,
-        title: "eum et est occaecati",
-        body: "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+        title: "TypeScript",
+        body: "Typescript is a syntactic superset of javascript which adds static typing."
     },
     {
         userId: 1,
         id: 5,
-        title: "nesciunt quas odio",
-        body: "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+        title: "Angular",
+        body: "Angular is a TypeScript-based open-source front-end platform that makes it easy to build applications with in web/mobile/desktop. "
     },
     {
         userId: 1,
         id: 6,
-        title: "dolorem eum magni eos aperiam quia",
-        body: "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+        title: "Bootstrap 4",
+        body: "Bootstrap 4 is a newer version of Bootstrap, which is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites. "
     },
     {
         userId: 1,
         id: 7,
-        title: "magnam facilis autem",
-        body: "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+        title: "Sass",
+        body: "Sass is a CSS pre-processor.Sass reduces repetition of CSS and therefore saves time."
     },
 
     {
         userId: 10,
         id: 99,
-        title: "temporibus sit alias delectus eligendi possimus magni",
-        body: "quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia"
+        title: "Flex",
+        body: "The flex property sets the flexible length on flexible items."
     },
     {
         userId: 10,
         id: 100,
-        title: "at nam consequatur ea labore ea harum",
-        body: "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
+        title: "Git",
+        body: "Global Information Tracker(Git).it is a version control system.Git helps you keep track of code changes."
     }
 ]
   constructor() { }
